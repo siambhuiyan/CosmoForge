@@ -1,5 +1,4 @@
 # The Celestial Codex: Embarking on an Odyssey of 3D Game Engine Mastery 🌌🎮
-# CosmoForge: The Odyssey Engine 🌌🎮
 
 ## Project Overview
 

@@ -67,81 +67,53 @@ In a realm where imagination dances with reality, your cosmic voyage unfurls. St
 
 🎭 Orchestrate realities with an entity-component dance. Breathe life into 3D models—each figure a celestial note upon the grand stage.
 
-   - **Resources:**
-     - [Book - "3D Math Primer for Graphics and Game Development"](https://www.amazon.com/Math-Primer-Graphics-Development/dp/1568817231)
-     - [Online Course - "Mathematics for 3D Game Programming and Computer Graphics"](https://www.udemy.com/course/3d-math-primer-for-graphics-and-game-development/)
-
 ## Chapter 6: Quantum Harmony
 
 🌀 Master the cosmic dance of input and cameras. Traverse dimensions with celestial camera controls. Keyboards and controllers morph into conduits of cosmic interaction.
 
-   - **Resources:**
-     - [YouTube - "TheCherno's Game Engine Series"](https://www.youtube.com/user/TheCherno)
-     - [Online Course - "Learn Modern OpenGL Programming"](https://www.udemy.com/course/learn-modern-opengl/)
-     - [Article - "OpenGL Camera"](https://www.opengl-tutorial.org/beginners-tutorials/tutorial-6-keyboard-and-mouse/)
-       
-## Chapter 7: Evoking Colors of Creation
+## Chapter 7: Weaving the Fabric of Creation
 
-🌈 Immerse thyself in the hues of shaders—the palettes of digital artists. Unleash vertex and fragment spells, infusing entities with the very essence of materials.
+🌈 Blend with the hues of shaders—brushstrokes from the digital atelier. Unleash vertex and fragment spells. Infuse entities with the quintessence of cosmic materials.
 
    - **Resources:**
-     - [Book - "OpenGL Shading Language"](https://www.amazon.com/OpenGL-Shading-Language-4th/dp/0321552628)
-     - [Online Course - "Computer Graphics with Modern OpenGL and C++"](https://www.udemy.com/course/graphics-with-modern-opengl/)
+     - [OpenGL Shading Language (GLSL) Reference](https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language)
+     - [The Book of Shaders](https://thebookofshaders.com/)
 
-## Chapter 8: Radiance of Illumination
+## Chapter 8: Radiance of Creation
 
-☀️ Illuminate your cosmos with arcane knowledge. Descend into the trilogy of lighting models—ambient, diffuse, specular. Dance with shadows through the enigmatic art of shadow mapping.
-
-   - **Resources:**
-     - [Online Course - "Computer Graphics with OpenGL"](https://www.udemy.com/course/graphics-with-opengl/)
-     - [Tutorial - Learn OpenGL](https://learnopengl.com/)
-
-## Chapter 9: Forging the Crucible of Logic
-
-⚙️ Transmute worlds with the elixir of game logic. Set the rhythm with a cosmic game loop, intertwining reality with imagination through basic mechanics.
+☀️ Illuminate your cosmos with arcane luminescence. Delve into the trilogy of lighting models—ambient, diffuse, specular. Dance with cosmic shadows through the art of shadow mapping.
 
    - **Resources:**
-     - [Online Course - "Unreal Engine C++ Developer: Learn C++ and Make Video Games"](https://www.udemy.com/course/unrealcourse/)
+     - [Real-Time Rendering](http://www.realtimerendering.com/)
+     - [LearnOpenGL](https://learnopengl.com/)
 
-## Chapter 10: Harmonies of Sound
+## Chapter 9: The Alchemy of Logic
 
-🎵 Let unseen harmonies enthrall your realms. Weave the fabric of silence with libraries like FMOD and OpenAL. Summon echoes of emotions through sound effects and melodious tunes.
+⚙️ Transmute worlds with the elixir of game logic. Craft rhythms with a cosmic game loop, fusing reality with imagination through the crucible of mechanics.
+
+## Chapter 10: Cosmic Harmonies
+
+🎵 Infuse realms with unseen harmonies. Weave audio into cosmic silence using libraries like FMOD and OpenAL. Summon echoes of emotions through sound's celestial melodies.
 
    - **Resources:**
-     - [FMOD Documentation](https://www.fmod.com/docs/api/)
-     - [OpenAL - Official Website](https://www.openal.org/documentation/)
+     - [FMOD Documentation](https://www.fmod.com/resources/documentation)
+     - [OpenAL Soft Documentation](https://openal-soft.org/documentation/)
 
 ## Chapter 11: Portals to Imagination
 
-🌌 Craft portals to interaction. HUDs guide travelers through cosmic landscapes, while buttons and text invite them to inscribe their presence upon your cosmic canvas.
-
-   - **Resources:**
-     - [YouTube - "HUD Creation in Unity"](https://www.youtube.com/watch?v=6x2MIZXvQew)
-     - [YouTube - "Unity UI Tutorial"](https://www.youtube.com/watch?v=211t6r12XPQ)
+🌌 Craft portals—gateways to interaction. HUDs guide explorers through cosmic landscapes, while buttons and text invite imprints upon your creation.
 
 ## Chapter 12: Ascension to the Stars
 
 🚀 Elevate your creation to celestial platforms—Windows, Linux, macOS. Infuse your artifacts with the cosmic essence of essential assets.
 
-   - **Resources:**
-     - [SDL - Official Documentation](https://wiki.libsdl.org/FrontPage)
-     - [OpenGL - Documentation](https://www.opengl.org/documentation/)
-
 ## Chapter 13: Chronicles Eternal
 
 📜 Inscribe poetic verses as code comments—legends of your odyssey. Erect monuments of grandeur with digital portfolios, beckoning wanderers to marvel at your cosmic tapestry.
 
-   - **Resources:**
-     - [Blog - "How to Write Code Comments"](https://blog.codinghorror.com/code-comments-good-bad-or-ugly/)
-     - [Portfolio Website Guide](https://www.websitebuilderexpert.com/designing-websites/how-to-build-a-portfolio-website/)
-
 ## Chapter 14: Beyond the Horizon
 
 🌀 Venture into the abyss of advanced realms. Discover the secrets of Physically Based Rendering and the Arcane Art of Game Physics Engine Development.
-
-   - **Resources:**
-     - [Book - "Physically Based Rendering"](http://www.pbr-book.org/)
-     - [Online Course - "Game Physics"](https://www.udemy.com/course/unitycourse2/)
 
 ## Chapter 15: Nexus of Knowledge
 
@@ -156,24 +128,27 @@ Inscribed in every line of code is your name, a beacon among the stars.
 ## Cosmic Companions
 
 - 📚 [Book - "The Hitchhiker's Guide to the Galaxy"](https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0345391802)
-- 📚 [Book - "The Martian"](https://www.amazon.com/Martian-Andy-Weir/dp/0553418025)
+- 📚 [Book - "The Martian"](https://www.amazon.com/Martian-Novel-Andy-Weir/dp/0553418025)
+- 🎥 [YouTube - "The Art of Code" Channel](https://www.youtube.com/channel/UCcSAlNtsW_Z6E3vJjklMOXQ)
+- 🌐 [Coursera - Computer Graphics by University of Tokyo](https://www.coursera.org/learn/computer-graphics)
+- 🌐 [Udemy - Complete C++ Game Development Course](https://www.udemy.com/course/unrealcourse/)
 
-## Guiding the Odyssey
+## Celestial Guide and Guardians
 
-For an in-depth chronicle of my journey, insights, and problem-solving sagas, navigate to [My Journey's Repository](https://shorturl.at/kLQR5).
+For a guide through the celestial realms, revelations, and enigmas, visit [my journey's repository](https://shorturl.at/kLQR5).
 
-## Chartering the Cosmos
+## The Cosmic Forge's Enchantment
 
-Contribute to this cosmic endeavor by adhering to the astral guidelines etched within [CONTRIBUTING.md](link-to-contributing-md).
+To contribute to this cosmic saga, channel your energies by adhering to the sacred decrees enshrined in [CONTRIBUTING.md](link-to-contributing-md).
 
-## The Cosmic License
+## The Celestial Oath
 
-This endeavor orbits under the mantle of the [MIT License](link-to-license).
+This saga of celestial creation is entrusted to the embrace of the [MIT License](link-to-license).
 
-## The Cosmos Applauds
+## Cosmic Gratitude
 
-An interstellar ovation to the mentors, creators, and knowledge bestow-ers—guiding lights on the path of game engine creation.
+A cosmic salute to mentors, creators, and celestial navigators who kindle the path of game engine creation.
 
 ---
 
-*Weaving dreams in code, as the cosmos beckons.* 🌠🎮
+*Crafting destinies in code, as the cosmos awaits.* 🌌🚀

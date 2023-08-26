@@ -127,8 +127,6 @@ Inscribed in every line of code is your name, a beacon among the stars.
 
 ## Cosmic Companions
 
-- 📚 [Book - "The Hitchhiker's Guide to the Galaxy"](https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0345391802)
-- 📚 [Book - "The Martian"](https://www.amazon.com/Martian-Novel-Andy-Weir/dp/0553418025)
 - 🎥 [YouTube - "The Art of Code" Channel](https://www.youtube.com/channel/UCcSAlNtsW_Z6E3vJjklMOXQ)
 - 🌐 [Coursera - Computer Graphics by University of Tokyo](https://www.coursera.org/learn/computer-graphics)
 - 🌐 [Udemy - Complete C++ Game Development Course](https://www.udemy.com/course/unrealcourse/)
